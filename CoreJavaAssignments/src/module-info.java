@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author stkambha
+ *
+ */
+module CoreJavaAssignments {
+}
